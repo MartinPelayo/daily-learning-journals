@@ -1,0 +1,2 @@
+# 1mp-code201-day4.md
+Got to class at 6:10 for extra studying before class, at the time of arrival I still had 3 reading assignments, 1 lab and a daily learning journal to turn in because I had been working on the lab most of the night before. I was able to at least make some progress on my lab thanks to John who has been a huge help. While the reading assignments where unfortunaltey late, I haeve just turned them in. Today was a good day for catchup. 
