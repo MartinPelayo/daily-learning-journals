@@ -1,0 +1,2 @@
+# 1mp-code201-day5.md
+Today we discussed variables and attempted to incorporated them into our lab work. We where required to make 5 different variables using arrays, and other elements. The lecture went over my head. I was able to follow along and understand a few aspects of variables here and there. I managed to complete one variable during lab time with the help of John. I had to leave earlier than what was ideal so that I could get home at a decent time so that I can continue my work. <else> I would have gotten home far to late. 
