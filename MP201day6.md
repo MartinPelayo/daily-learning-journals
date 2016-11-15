@@ -1,0 +1,2 @@
+# 1mp-code201-day6.md
+Today we started to learn about DOM(Document Object Model). I have been trying to catch up on what was covered last week, including the lab work, as a result I have not had time to prepare for this week. Much of the DOM related work went over my head. I stayed a few hours after class working on my lab work. Aaron stayed late to help some us out who where struggling, this was a huge help.
